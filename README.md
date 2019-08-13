@@ -8,7 +8,7 @@ The objective of this Case is to Predict of bike rental count on daily basis for
 Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return back at another position. Currently, there are about over 500 bike-sharing programs around the world which is composed of over 500 thousands bicycles. Today, there exists great interest in these systems due to their important role in traffic, environmental and health issues.
 
 # Data
-instant: Record index
+instant: Record index \n
 dteday: Date 
 season: Season (1:springer, 2:summer, 3:fall, 4:winter) 
 yr: Year (0: 2011, 1:2012) 
